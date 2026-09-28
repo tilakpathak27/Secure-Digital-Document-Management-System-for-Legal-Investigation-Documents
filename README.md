@@ -1,0 +1,2 @@
+# Secure-Digital-Document-Management-System-for-Legal-Investigation-Documents
+Secure Digital Document Management System for Legal &amp; Investigation Documents  A centralized, tamper-proof, and intelligent digital platform designed for storing, managing, searching, verifying, and sharing sensitive legal and investigative documents (FIRs, charge sheets, forensic reports, court filings, witness statements, and evidence records).
